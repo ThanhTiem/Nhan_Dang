@@ -4,3 +4,4 @@ CS338.K11
 Nhận dạng các loại hoa quả.
 - bộ data gồm có 120 class
 - > 80 000 ảnh kích thước 100 x 100
+link data: https://www.kaggle.com/moltean/fruits
